@@ -42,7 +42,7 @@ A clean and responsive **Image Gallery** built with **pure HTML & CSS only** —
 ## 📂 Project Structure
 
 ```
-image-gallery-html-css/
+image-gallery-app/
 │
 ├── index.html         # Gallery HTML structure
 ├── style.css          # All styling & hover effects
