@@ -9,7 +9,7 @@ A clean and responsive **Image Gallery** built with **pure HTML & CSS only** —
 
 ##  Live Demo
 
-👉 [View Live on GitHub Pages](https://github.com/AI-RISHVA/image-gallery-app.git)
+👉 [View Live on GitHub Pages](https://ai-rishva.github.io/image-gallery-app/)
 
 ---
 
@@ -99,4 +99,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
- **If you liked this project, give it a star!**
+ **If you liked this project, give it a star! ⭐ **
