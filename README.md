@@ -68,7 +68,7 @@ git clone https://github.com/AI-RISHVA/image-gallery-app.git
 
 2. Open in browser
 ```bash
-cd image-gallery-html-css
+cd image-gallery-app
 open index.html
 ```
 
